@@ -1,0 +1,14 @@
+C:\Users\ChristopherRogala\source\repos\FilterExample\FilterExample\bin\Debug\netcoreapp2.1\FilterExample.deps.json
+C:\Users\ChristopherRogala\source\repos\FilterExample\FilterExample\bin\Debug\netcoreapp2.1\FilterExample.runtimeconfig.json
+C:\Users\ChristopherRogala\source\repos\FilterExample\FilterExample\bin\Debug\netcoreapp2.1\FilterExample.runtimeconfig.dev.json
+C:\Users\ChristopherRogala\source\repos\FilterExample\FilterExample\bin\Debug\netcoreapp2.1\FilterExample.dll
+C:\Users\ChristopherRogala\source\repos\FilterExample\FilterExample\bin\Debug\netcoreapp2.1\FilterExample.pdb
+C:\Users\ChristopherRogala\source\repos\FilterExample\FilterExample\obj\Debug\netcoreapp2.1\FilterExample.csprojAssemblyReference.cache
+C:\Users\ChristopherRogala\source\repos\FilterExample\FilterExample\obj\Debug\netcoreapp2.1\FilterExample.csproj.CoreCompileInputs.cache
+C:\Users\ChristopherRogala\source\repos\FilterExample\FilterExample\obj\Debug\netcoreapp2.1\FilterExample.RazorAssemblyInfo.cache
+C:\Users\ChristopherRogala\source\repos\FilterExample\FilterExample\obj\Debug\netcoreapp2.1\FilterExample.RazorAssemblyInfo.cs
+C:\Users\ChristopherRogala\source\repos\FilterExample\FilterExample\obj\Debug\netcoreapp2.1\FilterExample.AssemblyInfoInputs.cache
+C:\Users\ChristopherRogala\source\repos\FilterExample\FilterExample\obj\Debug\netcoreapp2.1\FilterExample.AssemblyInfo.cs
+C:\Users\ChristopherRogala\source\repos\FilterExample\FilterExample\obj\Debug\netcoreapp2.1\FilterExample.RazorTargetAssemblyInfo.cache
+C:\Users\ChristopherRogala\source\repos\FilterExample\FilterExample\obj\Debug\netcoreapp2.1\FilterExample.dll
+C:\Users\ChristopherRogala\source\repos\FilterExample\FilterExample\obj\Debug\netcoreapp2.1\FilterExample.pdb
